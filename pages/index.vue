@@ -12,7 +12,7 @@
         >
           Documentation
         </a>
-        <a
+        narayan adhikary
           href="https://github.com/nuxt/nuxt.js"
           target="_blank"
           rel="noopener noreferrer"
